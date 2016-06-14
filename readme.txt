@@ -4,3 +4,4 @@ Insert a line.(fixed issue-01).
 Modified in clone repository.
 Creating a new branch is fast and simple.
 Something needs stash.
+Write comment when merging branch.
