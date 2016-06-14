@@ -4,4 +4,4 @@ Modified in clone repository.
 Creating a new branch is fast and simple.
 Something needs stash.
 Write comment when merging branch.
-Modified by Tiger.
+Modified by Tiger and michael.
